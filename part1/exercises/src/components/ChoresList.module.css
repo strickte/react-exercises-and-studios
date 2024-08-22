@@ -11,4 +11,7 @@
   text-align: left;
   font-family: "Trebuchet MS";
   text-decoration: underline;
+  border-color: hotpink;
+  border-style: dotted;
+  width: 200px;
 }
