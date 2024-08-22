@@ -1,7 +1,14 @@
 .choresText {
-   color: black;
+  color: rgb(209, 61, 61);
+  font-size: 1.3vw;
+  text-align: left;
+  font-family: "Lucida Grande";
+  font-style: italic;
 }
 
 .choresHeading {
-   color: black;
+  color: rgb(128, 51, 51);
+  text-align: left;
+  font-family: "Trebuchet MS";
+  text-decoration: underline;
 }
